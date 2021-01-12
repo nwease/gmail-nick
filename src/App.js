@@ -3,6 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './components/Header';
 import SideBar from './components/SideBar';
+import Mail from './components/Mail';
+import EmailList from './components/EmailList';
 
 function App() {
     return (
@@ -10,15 +12,19 @@ function App() {
             <div className='app'>
                 <Header />
 
-                <SideBar />
+                <div className='app__body'>
+                    <SideBar />
 
-                {/*<Switch>*/}
-                {/*    <Route path='/'>*/}
-                {/*       <h1>*/}
-                {/*           TEST*/}
-                {/*       </h1>*/}
-                {/*    </Route>*/}
-                {/*</Switch>*/}
+                    <Switch>
+                        <Route path='/mail'>
+                            <Mail />
+                        </Route>
+
+                        <Route path='/'>
+                            <EmailList />
+                        </Route>
+                    </Switch>
+                </div>
             </div>
         </Router>
     );
