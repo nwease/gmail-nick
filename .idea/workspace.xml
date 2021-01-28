@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7fc03d5-93c6-4c50-a834-164104fbd42d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/EmailList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Mail.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SideBarMenu.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/EmailList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Mail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/SideBarMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EmailRow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/EmailRow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/EmailList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EmailList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/EmailList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/EmailList.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/SideBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/SideBar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,10 @@
       <option name="presentableId" value="Default" />
       <updated>1609753601742</updated>
       <workItem from="1609753604775" duration="5590000" />
-      <workItem from="1610357270150" duration="12855000" />
+      <workItem from="1610357270150" duration="13378000" />
+      <workItem from="1610543414068" duration="4058000" />
+      <workItem from="1611563952553" duration="170000" />
+      <workItem from="1611755416638" duration="5093000" />
     </task>
     <servers />
   </component>
