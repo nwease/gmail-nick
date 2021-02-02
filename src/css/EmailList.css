@@ -14,14 +14,6 @@
     padding-right: 10px;
 }
 
-.emailList__settingsLeft {
-
-}
-
-.emailList__settingsRight {
-
-}
-
 .emailList__sections {
     position: sticky;
     top: 0;
@@ -29,8 +21,4 @@
     background-color: #fff;
     border-bottom: 1px solid whitesmoke;
     z-index: 999;
-}
-
-.emailList__list {
-
 }

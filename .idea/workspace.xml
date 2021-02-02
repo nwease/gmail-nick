@@ -4,9 +4,12 @@
     <list default="true" id="d7fc03d5-93c6-4c50-a834-164104fbd42d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EmailRow.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EmailRow.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Mail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Mail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/EmailList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/EmailList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/EmailRow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/EmailRow.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/Mail.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Mail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counterSlice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/mailSlice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,7 @@
       <workItem from="1610543414068" duration="4058000" />
       <workItem from="1611563952553" duration="170000" />
       <workItem from="1611755416638" duration="8390000" />
-      <workItem from="1612256178054" duration="1895000" />
+      <workItem from="1612256178054" duration="5828000" />
     </task>
     <servers />
   </component>

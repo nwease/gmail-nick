@@ -76,8 +76,26 @@ function Mail() {
             </div>
 
             <div className='mail__body'>
-                <div className='mail__header'>
+                <div className='mail__bodyHeader'>
+                    <h2>
+                        Subject
+                    </h2>
 
+                    <LabelImportantIcon className='mail__important' />
+
+                    <p>
+                        Title
+                    </p>
+
+                    <p className='mail__time'>
+                        10 am
+                    </p>
+                </div>
+
+                <div className='mail__message'>
+                    <p>
+                        A Message Stupid!!!
+                    </p>
                 </div>
             </div>
         </div>
